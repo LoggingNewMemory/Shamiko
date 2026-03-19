@@ -1,4 +1,4 @@
-Shamiko <br />
+## Shamiko
 A Mask to Bypass Human Emotion Verdict 
 
 This Algorithm is Designed to be Followed by **HUMAN** This doesn't applied to machines, let alone artificial thingies
