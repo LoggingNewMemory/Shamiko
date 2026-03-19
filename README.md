@@ -6,6 +6,8 @@ This Algorithm is Designed to be Followed by **HUMAN** This doesn't applied to m
 Tool used:
 - Draw.io 
 
+The exported (.png) Will not be published. You need to use Draw.io
+
 If you have improvement on "Masking Your Own Emotion" please do a Pull Request **ASAP**
 
 ### DO NOT PULL REQUEST SOMETHING THAT'S USELESS OR NON-GENERIC
